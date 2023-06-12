@@ -1,6 +1,6 @@
 CrossCraft Classic uses assets both derived and used 
-from the Unity, the Pixel Perfection Community Edition,
-and the "defaultish" resource packs.
+from the Unity, the Pixel Perfection Community Edition, 
+RPG16 and the "defaultish" resource packs.
 
 Defaultish by foreverxml is licensed under the GNU
 General Public License version 3.
@@ -12,6 +12,9 @@ License.
 Pixel Perfection Community Edition is licensed under a
 Creative Commons Attribution Share Alike 4.0 Internat-
 ional licence.
+
+RPG16 is licensed under the Creative Commons Attribution 
+Share Alike 4.0 International License.
 
 The Ore Pattern used was created by MotoLegacy for use
 in this pack and rights have been waived, placing it
@@ -25,3 +28,6 @@ https://www.curseforge.com/minecraft/texture-packs/unity
 
 Pixel Perfection Community Edition Download:
 https://github.com/Athemis/PixelPerfectionCE
+
+RPG16 Download:
+https://gitlab.com/Df458/rpg16
