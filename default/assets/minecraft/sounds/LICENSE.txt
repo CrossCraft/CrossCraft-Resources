@@ -4,8 +4,32 @@ of the freesound.org-sourced CC licensed media by making a PR!
 
 dig/glass*.wav -    https://freesound.org/people/cmusounddesign/sounds/71947/   cmusounddesign - (CC BY 3.0)
                     https://freesound.org/people/datasoundsample/sounds/41348/  datasoundsample - (CC BY 3.0)
+                    https://freesound.org/people/lsprice/sounds/88808/          lsprice - (CC BY 3.0)
 
 dig/grass*.wav -    https://freesound.org/people/Snoman/sounds/9904/            Snoman - (CC BY 3.0)
                     https://freesound.org/people/Snoman/sounds/9905/            Snoman - (CC BY 3.0)
                     https://freesound.org/people/Snoman/sounds/9907/            Snoman - (CC BY 3.0)
                     https://freesound.org/people/Snoman/sounds/9906/            Snoman - (CC BY 3.0)
+
+dig/gravel*.wav -   https://freesound.org/people/tigersound/sounds/15562/       tigersound - (CC BY-NC 4.0)
+
+dig/wood*.wav
+dig/stone.wav -     https://freesound.org/people/carrigsound/sounds/32636/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32637/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32643/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32639/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32640/      carrigsound - (CC0 1.0)
+
+step/grass*.wav -   https://freesound.org/people/Snoman/sounds/9904/            Snoman - (CC BY 3.0)
+                    https://freesound.org/people/Snoman/sounds/9905/            Snoman - (CC BY 3.0)
+                    https://freesound.org/people/Snoman/sounds/9907/            Snoman - (CC BY 3.0)
+                    https://freesound.org/people/Snoman/sounds/9906/            Snoman - (CC BY 3.0)
+
+step/gravel*.wav -  https://freesound.org/people/tigersound/sounds/15562/       tigersound - (CC BY-NC 4.0)
+
+step/wood*.wav
+step/stone.wav -    https://freesound.org/people/carrigsound/sounds/32636/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32637/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32643/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32639/      carrigsound - (CC0 1.0)
+                    https://freesound.org/people/carrigsound/sounds/32640/      carrigsound - (CC0 1.0)
