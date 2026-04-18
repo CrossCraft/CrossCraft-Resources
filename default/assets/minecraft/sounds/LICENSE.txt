@@ -36,8 +36,9 @@ step/stone.wav -    https://freesound.org/people/carrigsound/sounds/32636/      
 
 
 
-Cloth from MikeFozzy98: https://freesound.org/people/MikeFozzy98/
+Cloth from tortillathrilla and chonkdonk: https://freesound.org/people/tortillathrilla/ 
+                                          https://freesound.org/people/chonkdonk/
 Sand from BlondPanda: https://freesound.org/people/BlondPanda/
 Both are CC-0 Public Domain
 
-Modified by IridescentRose, Public Domain
+Modified by IridescentRose and Sergey ESN, Public Domain
