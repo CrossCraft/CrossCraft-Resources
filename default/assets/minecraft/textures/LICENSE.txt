@@ -1,6 +1,6 @@
 CrossCraft Classic uses assets both derived and used 
 from the Unity, the Pixel Perfection Community Edition, 
-RPG16 and the "defaultish" resource packs.
+RPG16, Coquet and the "defaultish" resource packs.
 
 Defaultish by foreverxml is licensed under the GNU
 General Public License version 3.
@@ -15,6 +15,9 @@ ional licence.
 
 RPG16 is licensed under the Creative Commons Attribution 
 Share Alike 4.0 International License.
+
+Coquet is licensed under the Creative Commons Attribution 
+Non Commercial 4.0 International
 
 The Ore Pattern used was created by MotoLegacy for use
 in this pack and rights have been waived, placing it
@@ -31,3 +34,6 @@ https://github.com/Athemis/PixelPerfectionCE
 
 RPG16 Download:
 https://gitlab.com/Df458/rpg16
+
+Coquet Download:
+https://modrinth.com/resourcepack/coquet
